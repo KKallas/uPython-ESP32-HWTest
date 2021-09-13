@@ -3,7 +3,9 @@ Simple generic platform to preform hardware test with ESP32 running uPython buil
 
 # Examples
 ## DS Apollo One (3)
+
 Examples/DS_Apollo1_3
+
 16LED RGBW fixture, 100W nominal, DS Voyager Power (20V, DoDC, Underwater compatible)
 * 1xRGBW output
 * LM75 temp sensor
@@ -14,6 +16,7 @@ Examples/DS_Apollo1_3
 
 ## DS Spot (02)
 Examples/DS_Spot_02
+
 [Schematic](url)
 
 1LED RGBW 10W Nominal ultra narrow spotlight, USBC (USB2, 5V 2A max)
