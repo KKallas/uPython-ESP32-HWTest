@@ -15,6 +15,7 @@ Examples/DS_Apollo1_3
 ## DS Spot (02)
 Examples/DS_Spot_02
 [Schematic](url)
+
 1LED RGBW 10W Nominal ultra narrow spotlight, USBC (USB2, 5V 2A max)
 * 1xRGBW {r:33,g:25,b:26,w:,27}
 * Ressistor temp sensor {32}
